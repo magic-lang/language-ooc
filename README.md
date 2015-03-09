@@ -1,3 +1,5 @@
-# language-ooc package
+# ooc language support in Atom
+Adds syntax highlighting to ooc files in Atom.
 
-Adds syntax highlighting and snippets to OOC files in Atom.
+Originally [converted](https://atom.io/docs/latest/converting-a-text-mate-bundle) from the [ooc TextMate bundle](https://github.com/nilium/ooc.tmbundle).
+
