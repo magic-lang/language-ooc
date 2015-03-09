@@ -1,0 +1,10 @@
+'.source.ooc':
+  'Class':
+    'prefix': 'class'
+    'body': '${1:MyClass}: class {\n\t$0\n}'
+  'Cover':
+    'prefix': 'cover'
+    'body': '${1:MyCover}: cover {\n\t$0\n}'
+  'Function':
+    'prefix': 'override func'
+    'body': '${1:myFunc}: func ${2/.+/-> $1/ }${2:Int}${2/.+/ /}{\n\t$0\n}'
