@@ -6,5 +6,5 @@
     'prefix': 'cover'
     'body': '${1:MyCover}: cover {\n\t$0\n}'
   'Function':
-    'prefix': 'override func'
+    'prefix': 'func'
     'body': '${1:myFunc}: func ${2/.+/-> $1/ }${2:Int}${2/.+/ /}{\n\t$0\n}'
