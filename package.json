@@ -1,6 +1,6 @@
 {
   "name": "language-ooc",
-  "version": "0.2.0",
+  "version": "0.0.0",
   "description": "Syntax highlighting for ooc files",
   "repository": "https://github.com/cogneco/language-ooc",
   "license": "MIT",
